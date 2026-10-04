@@ -1,0 +1,8 @@
+{
+  "name": "split",
+  "version": "0.1.0",
+  "description": "/split forks the current session into a terminal split beside it (cmux or tmux)",
+  "author": {
+    "name": "Abdelrahman Elkady"
+  }
+}

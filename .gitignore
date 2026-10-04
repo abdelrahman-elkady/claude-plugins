@@ -1,0 +1,5 @@
+.DS_Store
+node_modules/
+
+# Types the Claude Code engine writes beside a loaded plugin
+.claude-plugin/types/

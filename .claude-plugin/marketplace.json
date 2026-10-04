@@ -1,0 +1,15 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "elkady",
+  "description": "Claude Code plugins by Abdelrahman Elkady",
+  "owner": {
+    "name": "Abdelrahman Elkady"
+  },
+  "plugins": [
+    {
+      "name": "split",
+      "description": "/split forks the current session into a terminal split beside it (cmux or tmux)",
+      "source": "./plugins/split"
+    }
+  ]
+}
