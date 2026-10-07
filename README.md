@@ -5,6 +5,7 @@ Claude Code plugins by Abdelrahman Elkady.
 | Plugin | What it does |
 | --- | --- |
 | [split](plugins/split) | `/split` forks the current session into a terminal split beside it |
+| [fleet](plugins/fleet) | `/fleet` toggles a pane with the subagent budget spent per model and the agents running now |
 
 ## Install
 

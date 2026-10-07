@@ -1,0 +1,9 @@
+{
+  "name": "fleet",
+  "version": "0.1.0",
+  "description": "/fleet toggles a pane with the subagent budget spent per model and the agents running now",
+  "author": {
+    "name": "Abdelrahman Elkady"
+  },
+  "types": "./types/index.d.ts"
+}

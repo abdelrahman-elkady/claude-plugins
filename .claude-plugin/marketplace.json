@@ -10,6 +10,11 @@
       "name": "split",
       "description": "/split forks the current session into a terminal split beside it (cmux or tmux)",
       "source": "./plugins/split"
+    },
+    {
+      "name": "fleet",
+      "description": "/fleet toggles a pane with the subagent budget spent per model and the agents running now",
+      "source": "./plugins/fleet"
     }
   ]
 }

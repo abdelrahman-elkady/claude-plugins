@@ -1,0 +1,7 @@
+{
+  "extends": "./.claude-plugin/types/tsconfig.json",
+  // Leaves out the session's MCP tool typings: with hundreds of tools connected the
+  // `tool.call` matcher gets too deep for tsc (TS2589), and fleet types its own tool
+  // in types/index.d.ts instead.
+  "compilerOptions": { "types": ["claude-code", "claude-code-tools"] }
+}
